@@ -1,6 +1,6 @@
 # 
 
-# rsqliteadmin_gsoctask
+# RSQLite_GSOC_TEST
 A database management system that interacts with database. It facilitates several  operation over the database it manages.
 
 A few operation which are as follows--
@@ -35,7 +35,7 @@ The complete SQL database is contained within a single disk file and all reads a
  
  MySQL holds an edge over PostgreSQL for simple read-heavy operations when it comes to throughput and performance. It is also much simpler to install and use and has a broader community compared to PostgreSQL.
  
- ## Why SQLite ?!
+ ## Why SQLite ?
 
 SQLite is a serverless solution that’s self-contained, highly reliable, and full of features. As a self-contained SQL database engine, it can handle all sorts of data in a relatively simple manner. This is because it integrates directly with the application instead of having to install it somewhere and then have it connect with your app.
 
